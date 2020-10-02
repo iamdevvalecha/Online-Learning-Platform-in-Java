@@ -37,3 +37,6 @@ with the application.
 
 ## License
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
+
+#learn with video lectures of geeks for geeks for free link is given below.
+https://mega.nz/folder/WVxEkAxT#tCqsnv0D50jSQCvkJ0JmPg
